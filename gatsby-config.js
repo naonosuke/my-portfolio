@@ -4,7 +4,14 @@ require(`dotenv`).config({
 
 module.exports = {
   siteMetadata: {
-    siteTitleAlt: `Minimal Blog - Gatsby Theme`,
+    siteTitleAlt: `Naoki Shirahige - A Just My Portfolio`,
+    siteTitle: `Naoki Shirahige`,
+    siteUrl: `http://127.0.0.1`,
+    siteDescription: ``,
+    siteLanguage: ``,
+    siteImage: ``,
+    author: ``,
+    siteHeadline: ``,
   },
   plugins: [
     {
@@ -24,11 +31,11 @@ module.exports = {
         externalLinks: [
           {
             name: `Twitter`,
-            url: `https://twitter.com/lekoarts_de`,
+            url: `https://twitter.com/_naonosuke`,
           },
           {
-            name: `Instagram`,
-            url: `https://www.instagram.com/lekoarts.de/`,
+            name: `Facebook`,
+            url: `https://www.facebook.com/naonosuke.jp`,
           },
         ],
       },
@@ -48,7 +55,7 @@ module.exports = {
         description: `Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and code highlighting.`,
         start_url: `/`,
         background_color: `#fff`,
-        theme_color: `#6B46C1`,
+        theme_color: `#ADB367`,
         display: `standalone`,
         icons: [
           {
