@@ -50,9 +50,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `minimal-blog - @lekoarts/gatsby-theme-minimal-blog`,
-        short_name: `minimal-blog`,
-        description: `Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and code highlighting.`,
+        name: `Naoki Shirahige - A Just My Portfolio`,
+        short_name: `Naoki Shirahige`,
+        description: `It Is Just Naoki Shirahige's Portfolio.`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#ADB367`,
